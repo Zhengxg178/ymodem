@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+.././include/ymodem.h
+stdint.h
+-
+
+/home/xwqf/ymodem/ymodem.c
+stdio.h
+-
+stdlib.h
+-
+ymodem.h
+/home/xwqf/ymodem/ymodem.h
+string.h
+/home/xwqf/ymodem/string.h
+

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libymodem.a  CMakeFiles/ymodem.dir/ymodem.o
+/usr/bin/ranlib libymodem.a

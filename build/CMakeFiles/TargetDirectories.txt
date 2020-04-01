@@ -1,0 +1,4 @@
+/home/xwqf/ymodem/build/CMakeFiles/edit_cache.dir
+/home/xwqf/ymodem/build/CMakeFiles/rebuild_cache.dir
+/home/xwqf/ymodem/build/CMakeFiles/ymodem_demo.dir
+/home/xwqf/ymodem/build/CMakeFiles/ymodem.dir
